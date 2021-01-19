@@ -1,39 +1,3 @@
-# Constrained Device Application (Connected Devices)
-
-## Lab Module 01
-
-Be sure to implement all the PIOT-CDA-* issues (requirements) listed at [PIOT-INF-01-001 - Chapter 01](https://github.com/orgs/programming-the-iot/projects/1#column-9974937).
-
-### Description
-
-What does your implementation do?
-
-Set up Python and Git environment.
-
-How does your implementation work?
-
-Using git command to sync repository.
-
-### Code Repository and Branch
-
-URL: https://github.com/NU-CSYE6530-Fall2020/constrained-device-app-ChongFan185/tree/alpha001/exercises/chapter01
-
-### UML Design Diagram(s)
-
-![image](cda.png)
-
-### Unit Tests Executed
-
--ConfigUtilTest
-
-![image](UnitTest.png)
-
-### Integration Tests Executed
-
--ConstrainedDeviceAppTest
-
-![image](IntergrationTest.png)
-
 #Dweller
 
 ## 概述
